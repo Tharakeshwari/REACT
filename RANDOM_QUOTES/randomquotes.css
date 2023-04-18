@@ -1,0 +1,46 @@
+#div1{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overscroll-behavior: none;
+    height:70vh;
+    padding-top:10%;
+    padding-bottom:3%;
+}
+
+.d1{
+    font-size: 25px;
+    height:auto;
+    width:35%;
+    padding:3%;
+    background-color: white;
+    font-family: 'Raleway', sans-serif;
+    /* margin-top: 5vh; */
+    
+}
+#quo{
+    text-align: center;
+}
+#auth{
+    float:right;
+    padding-left:5px;
+}
+#button3{
+    height:40px;
+    width: 100px;
+    font-size: small;
+    font-family: 'Raleway', sans-serif;
+    margin-left:60%;
+    display:inline-block
+}
+#di{
+    width:100%;
+    height:3%;
+    display:inline-flex;
+}
+
+#button1{
+    margin-left: 35px;
+    width:40px;
+    height:40px;
+}
